@@ -9,7 +9,7 @@ import { Modal } from './Modal/Modal';
 
 export const App = () => {
   const [isLoading, setIsLoading] = useState(false);
-  const [error, setError] = useState('');
+  const [setError] = useState('');
   const [loadMore, setLoadMore] = useState(false);
   const [items, setItems] = useState([]);
   const [page, setPage] = useState(1);

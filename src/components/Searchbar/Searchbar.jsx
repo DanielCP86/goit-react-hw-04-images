@@ -1,4 +1,3 @@
-import { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import styles from './Searchbar.module.css';
 import { FiSearch } from 'react-icons/fi';
